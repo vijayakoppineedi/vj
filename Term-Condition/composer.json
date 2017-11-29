@@ -1,0 +1,12 @@
+{
+  "name": "JHendrickson/Term-Condition",
+  "type": "drupal-custom-module",
+  "description": "Check to see if a node references a particular taxonomy term.",
+  "homepage": "https://git.commerce.gov/JHendrickson/Term-Condition",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://git.commerce.gov/JHendrickson/Term-Condition/issues",
+    "source": "https://git.commerce.gov/JHendrickson/Term-Condition"
+  },
+  "require": { }
+}

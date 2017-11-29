@@ -1,0 +1,6 @@
+name: Term Condition
+type: module
+version: '8.x-1.0'
+description: Check to see if a node references a particular taxonomy term.
+core: 8.x
+package: Custom
